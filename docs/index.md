@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
 
 The CITY table is described as follows:
+
 ![image](https://user-images.githubusercontent.com/85286536/121522506-ce0b4800-ca12-11eb-83df-75f24933f2ad.png)
 
 
